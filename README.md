@@ -1,4 +1,4 @@
-# Airbnb Data Warehouse
+# Airbnb Data Warehouse 
 
 ## Project Overview
 
@@ -146,4 +146,3 @@ Airbnb-Data-Warehouse
 ```
 
 ---
-**Misk Mohammed**
