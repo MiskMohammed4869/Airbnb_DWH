@@ -146,16 +146,4 @@ Airbnb-Data-Warehouse
 ```
 
 ---
-
-# Future Improvements
-
-- Deploy the solution to Azure.
-- Automate the ETL pipeline.
-- Collect live Airbnb data using Web Scraping or APIs.
-- Schedule refresh using SQL Server Agent.
-
----
-
-# Author
-
 **Misk Mohammed**
