@@ -146,3 +146,4 @@ Airbnb-Data-Warehouse
 ```
 
 ---
+<img width="1247" height="871" alt="Star_Schema" src="https://github.com/user-attachments/assets/fe70d7ff-7aa1-4a69-9acb-03aa1b22e0ce" />
