@@ -149,3 +149,14 @@ Airbnb-Data-Warehouse
 ## Star Schema
 
 <img width="1247" height="871" alt="Star_Schema" src="https://github.com/user-attachments/assets/fe70d7ff-7aa1-4a69-9acb-03aa1b22e0ce" />
+
+## Dashboard
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6b711885-f8e3-4103-9432-1be400d69604" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/89de5002-8a25-4da1-a16a-19a58b926f4c" />
+<img width="1282" height="723" alt="image" src="https://github.com/user-attachments/assets/ed3e5a97-edd5-4800-8674-fbce5a2cc2c4" />
+<img width="1281" height="722" alt="image" src="https://github.com/user-attachments/assets/15e0e049-3788-40df-a706-8289d2369e77" />
+
+
+
+
